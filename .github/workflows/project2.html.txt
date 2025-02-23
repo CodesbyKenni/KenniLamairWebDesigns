@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Project 2</title>
+<link rel="stylesheet" href="css/style.css">
+  <meta charset="UTF-8">
+  <meta name="description" content="SEO best practices">
+  <meta name="keywords" content="Search engine optimization,HTML,SEO">
+    
+</head>
+<body>
+
+<div class="header">
+  <h1>CMST 386: Kenni Campbell</h1>
+</div>
+
+<h2>Client and Topic (25-word minimum):</h2>
+
+<h3>Which of the following describes the website you will be creating? website (you must seek instructor approval).</h3>
+
+<p>For this project, I will be designing and developing a website for my home based business. My website will showcase my artwork, which will be available for sale and my website will showcase physical merchandise that I have designed as well.</p>
+
+<h2>Development Process and Engagement (50-word minimum):</h2>
+
+<h3>Are you making the website for a client (someone other than yourself?)
+If you are making the website for a client, how will you involve them in the development process?
+If you are making the website for yourself, what research will you perform to help you create the content of the website?</h3>
+
+<p>For my website, I will research the color theory; this will help me understand how colors and different combinations of color affect the user’s experience. This will also help me in understanding which colors are best to use in catching the user’s eye and keeping them engaged throughout the site experience. I will also be researching different layouts that will help me understand and decide which layout is best for showcasing my work and the merchandise as well as aid in a seamless transition for the user while navigating through the website.</p>
+
+<h2>Testing (50-word minimum):</h2>
+
+<h3>What will you do to test this website prior to launch to make sure everything you created works as designed and that your website does not contain any errors?
+(Hint: This testing does not refer to HTML/CSS validation, but rather how you will test the website to make sure it is complete and meets the client requirements, including what was discovered during the development process and engagement.)
+What browsers will you include in your testing?</h3>
+
+<p>To test my website, I will host my website on 2 different servers and test them via two different browsers to ensure that the experience is identical on multiple browsers. I will also test my website on 3 different devices to make sure that the layout and design is symmetrical. I will be using Safari and Google Chrome to test my website.</p>
+
+<h2>Description (100-word minimum):</h2>
+
+<h3>Describe the business. What is the goal of the business?
+Describe the purpose of the website for the business.
+Who is the intended target audience and why (in detail)?
+(Hint: Details and personas that make up that audience would tell you classifications around areas such as: age, gender, race, location, ethnicity, economic, education level, etc. but most importantly how they access information – all of these are design considerations for the designer. Without knowing who is the target audience the designer will be hard-pressed to design well a website to meet the target audience needs.)
+What impact will the identification of the target audience have on how you develop the website?
+What unique content created and/or written/designed by you (text, images, etc.) will the website offer?
+What content will you get to create the website from other sources?
+How frequently will the website’s content need to be updated?</h3>
+
+<p>The business that I have chosen to create a website for is my art business. I create traditional paintings, abstract paintings and digital paintings. I also design prints that are used on merchandise such as phone cases, mugs, posters, stickers and laptop cases. The goal of my business is to sell artwork and design wearable/usable merchandise for consumers, nationwide. My target audience is made up of art collectors and anyone who uses technology. My audience includes consumers of every race and ethnicity, age ranges between 12-60 years old, anywhere in United States, with an education ranging from middle school to college graduates (includes further education, outside of college). Because my business caters to individuals of all ages, I will ensure that my design is vibrant and that the navigation is simple and straightforward, to avoid any unnecessary confusion. My website will include images of acrylic and digital paintings/ designs that I have created. My website will be updated every 3 months with new paintings, designs and products.</p>
+ 
+<h2>Growth and Maintenance (50-word minimum):</h2>
+
+<h3>How do you think the website will continue to grow and evolve over time?
+What things can you do while developing the website to make it easier to maintain? 
+What tasks will be required to maintain the website?
+At what frequency will each task you identify need to occur? (e.g. daily, once a week, once a month, etc.)</h3>
+
+<p>I believe the more skilled I become with my artistry and web design/development, my website will grow exponentially and evolve into a website where I not only showcase and sell my work, but I will also be able to offer digital design and web design/development services as well. While developing the website, I will keep the images of the paintings on one page and the images of the physical merchandise on another page, this will aid in maintenance and will make updating the images simple for me. Checking my physical inventory (the number of paintings that have not been sold in person) and checking with my printing company to ensure that the physical merchandise (phone cases, mugs, laptop cases) are still available to be sold through my website will be required tasks for maintenance and will occur once a month.</p>
+
+<h2>Organization (100-word minimum):</h2>
+
+<h3>How will the website content be organized?
+What sub-topics will the website include?
+What pages will be included in the website?
+Describe the page layout and navigation you are considering. 
+Include wireframes of the home page and one interior page.
+Develop a storyboard, website map, diagram or flow chart to show the webpages of Project 4, how the pages are related to each other and the flow of the site.
+</h3>
+
+<p>The website will be organized by page. Meaning the acrylic paintings will be showcased on one page, the digital paintings/digital designs will be displayed on one page and the merchandise, cellphone cases, laptop cases, and mugs will be shown on separate pages as well. Since this website will only show case artwork and merchandise for sale, there will be no sub-topics. There will only be images of the pieces and merchandise that include captions and prices. I am considering a simple layout showcasing the artwork and merchandise in rows and columns and the navigation will be stationed at the top of each page and will be centered.</p>
+
+<img src="img_homepage.jpg" alt="Home Page" width="400" height="500">
+<img src="img_accessoriespage.jpg" alt="Accessories Page" width="400" height="500">
+<img src="img_flowchart.jpg" alt="Flow Chart" width="400" height="500">
+
+<h2>Security (50-word minimum):</h2>
+
+<h3>Will the website include an e-commerce component?
+Will content on the website be password protected? If yes, explain what content will be password protected. If no, explain why there will not be any content that will be password protected.
+Will the website have a need for users to create accounts?
+While the web host will perform much of the heavy lifting on the web server to secure the website, what are some of the specific steps you can take as the website designer and developer to help secure the website?</h3>
+
+<p>My website will have an e-commerce component. None of the content on the website will be password protected. The website won’t be any password protected content on the website because the content that will be displayed isn’t exclusive. The content that will be displayed will be artwork that is open to and sold publicly. The visitors on my website won’t need to create an account. The steps that I will be taking to secure my website are, regularly updating the software, limiting the amount of sensitive personal information collected and stored and by monitoring website activity for suspicious behavior.</p>
+
+<h2>Web Hosting (100-word minimum):Please note that you aren't required to actually register a domain name or sign up for a hosting plan</h2>
+
+<h3>What criteria will you use to select a web host?
+Note: This question does not mean identify a specific web host that you will use. Rather, it is asking you to explain how you will go through a selection process to identify which host you will use. There should always be a selection process instead of just picking any web host! Be specific in your reasoning.
+What special technologies will be necessary for the website (shopping cart, SSL, etc.)? Why?
+What programming and/or scripting languages will the website need to have supported? Why?
+Find and identify an available domain name that would work for the website you are planning. You may use a website such as Network Solutions (http://www.netsol.com) to find an available domain name. Explain your reasoning for selecting the domain name you identified.</h3>
+
+<p>There will be several factors considered when choosing the best web host for my website. The first factor will be backups. I will make sure that the web host regularly backs up my website so it can be restored quickly if there’s a hack or database issue. The next factor will be security. I will ensure that the host offers security features like an SSL certificate to protect the users of my website. Next, I will make sure that the host offers a reasonable uptime, so that my website is available to my customers 24/7. And lastly, I will be checking the host for bandwidth to ensure that all the data I will be transferring can efficiently be transferred without slowing down/overwhelming the server. The special technology that I will be using will be a shopping cart. I will be using a shopping cart because items will be sold on my website. My domain name will be kennilamairartanddesigns.com. I selected this domain because it lets the visitor know what type of content/products will be displayed/offered on the website.</p>
+
+<h2>Marketing (50-word minimum):</h2>
+
+<h3>How will the website be marketed?
+What SEO (Search Engine Optimization) elements can be covered based on what you have learned so far in the website planning and building process?</h3>
+
+<p>My website will be marketed using google ads, facebook ads and advertising products on tiktok and Instagram. I will also be entering art shows where I can physically advertise my business and sell products as well. The SEO elements that can be covered based on what I have learned are, content, keywords, title tags, and sitemaps.</p>
+
+<h2>Project Reflection (MS Word document or paste the information in the textbox of the Assignment folder on submission) (minimum 250 words)Respond to the following:</h2>
+
+<h3>What applications did you use to complete the wireframes? Did you find the application simple to use or find an alternative to what was suggested?
+Explain what you learned when building the flowchart diagram in the proposal?
+Did you use one of the listed applications to diagram the site? If not, what did you use and why?
+What challenges did you face in developing the main navigation for the final project? How did you resolve them?
+If you did not face any challenges or issues in completing the project, what do you think are some issues or challenges someone new to creating web pages might face completing a project like this?</h3>
+
+<p>I used the application, procreate on my iPad to complete the wireframes for the web pages. I am extremely familiar with creating wireframes on procreate, designing them was simple. From building the flowchart, I learned how important it is to map out the navigation of your webpages. I learned that it is important to map out the navigation of your webpages, so that you can physically see the flow of content from one page to the next. I’ve also learned that creating a flowchart allows the designer to stay on track from page to page and it helps with organization as well. And lastly, I learned that it is important to have a sitemap, in terms of SEO. Having a sitemap will allow the search engines to be able to push your content based on the organization of the content on each web page. Yes, I used one of the listed applications to diagram the site. I did not face any challenges while completing this project. I believe that if someone were new to creating web pages, they may face a few issues while completing a project like this. The issues that may be faced are selecting the best web host for your website and for the best price, choosing the best SEO keywords and title tags, as it is important to choose the best words to describe the content on your website because that will determine your SEO ranking and that affects how your website is seen and how many people will see and visit your website. And lastly, I believe that someone new will have difficulty choosing which is the best way for them to advertise their website because depending on your content, advertising online may be more efficient than advertising in person and vice versa.</p>
+
+</div>
+<div class="footer">
+<h5>&copy; 2024 | Kenni Campbell.</h5>
+</div>
+
+
+</body>
+</html>
