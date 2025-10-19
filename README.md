@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KenniLamairWebDesigns
 - 👀 I’m interested in art, designing, and coding
-- 🌱 I’m currently learning how to design websites
+- 🌱 I’m currently learning building my skills on designing and developing websites
 - 💞️ I’m looking to collaborate on website designs and website developments
 - 📫 How to reach me by email: kenedracampbell@gmail.com and Youtube: Kenni Lamair Art 🍭
 - 😄 Pronouns: she/her
