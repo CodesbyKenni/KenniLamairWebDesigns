@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KenniLamairWebDesigns
-- 👀 I’m interested in art and designing
+- 👀 I’m interested in art, designing, and coding
 - 🌱 I’m currently learning how to design websites
-- 💞️ I’m looking to collaborate on graphic designs and website designs
-- 📫 How to reach me by email: kennilamairart@gmail.com and Youtube: Kenni Lamair Art 🍭
+- 💞️ I’m looking to collaborate on website designs and website developments
+- 📫 How to reach me by email: kenedracampbell@gmail.com and Youtube: Kenni Lamair Art 🍭
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love room temperature water and room temperature fruit!
 
