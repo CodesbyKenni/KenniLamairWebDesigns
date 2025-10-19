@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Kenni Codes — Weather</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app" role="application" aria-label="Weather application">
+    <header>
+      <h1>🌤️ Kenni’s Weather</h1>
+      <form id="searchForm" aria-label="Search by city" autocomplete="off">
+        <div class="field">
+          <span class="icon">🔎</span>
+          <label for="q" class="sr-only">City</label>
+          <input id="q" name="q" placeholder="Search city (e.g., Baltimore)" required />
+        </div>
+        <button type="submit" title="Search">Search</button>
+      </form>
+      <button id="geoBtn" class="btn" title="Use my location">📍 Use my location</button>
+      <div class="seg" role="group" aria-label="Units">
+        <button type="button" id="uC" aria-pressed="true">°C</button>
+        <button type="button" id="uF" aria-pressed="false">°F</button>
+      </div>
+    </header>
+
+    <section class="card current" aria-live="polite">
+      <div>
+        <div class="place" id="place">—</div>
+        <div class="inline">
+          <div class="big" id="temp">—</div>
+          <span class="chip" id="summary">Loading…</span>
+        </div>
+        <div class="stats">
+          <div class="stat">Feels: <strong id="feels">—</strong></div>
+          <div class="stat">Humidity: <strong id="hum">—</strong></div>
+          <div class="stat">Wind: <strong id="wind">—</strong></div>
+          <div class="stat">Precip prob (today): <strong id="pp">—</strong></div>
+        </div>
+      </div>
+      <div style="text-align:right">
+        <div class="note">Updated: <span id="updated">—</span></div>
+        <div class="note fade">Data: Open-Meteo • No key needed</div>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2 class="sr-only">7-Day Forecast</h2>
+      <div class="forecast" id="forecast" aria-live="polite"></div>
+    </section>
+  </div>
+
+  <div class="loading" id="loading" aria-hidden="true" aria-label="Loading">
+    <div class="spinner" role="status" aria-label="Loading"></div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
